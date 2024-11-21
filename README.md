@@ -1,4 +1,4 @@
-# Implementation of Efficiently Layered Network (ELNet) 
+# Implementation of Efficiently Layered Network (ELNet-2020) 
 
 
 Based on *Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet)* by [Maxwell Tsai](https://mxtsai.github.io/)
